@@ -5,6 +5,7 @@ node_modules
 .vscode/
 .idea/
 coverage
+vercel_token
 
 # IDE
 .vscode
